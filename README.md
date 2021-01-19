@@ -24,8 +24,10 @@ Maintenant, les étapes suivantes comment connecter la base de données
 
 Étape 10: Cliquez sur aller
 
-La dernière étape
+Les dernières étape
 ---
 
 Étape 11: Ouvrez le Terminal et appuyez sur npm start
+---
+Etape 12: ouvrez Invite de commande et exicuté le fichier Application.jar dans le dossier JAR_APPLICATION avec la commande java -jar Application.jar 
 ---
